@@ -1,0 +1,1 @@
+To-Do List App 📝 is a Python Tkinter application with a secure login system. Users can add, complete, and delete tasks, view all tasks, and filter by status. Each user has a personal task list, stored securely in JSON files. This project demonstrates Python programming, GUI design, user authentication, and data management.
